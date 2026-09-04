@@ -1,0 +1,241 @@
+texto,sentimiento,num_palabras
+el fondo de inversion tiene una plataforma muy intuitiva y facil de usar.,positivo,13
+"Excelente atencion al cliente, la cooperativa resolvio mi consulta muy rapido.",positivo,11
+El equipo de la casa de bolsa fue muy profesional al explicarme mis opciones de inversion.,positivo,16
+Estoy feliz con la rentabilidad que me ha dado la entidad crediticia este trimestre.,positivo,14
+Estoy feliz con la rentabilidad que me ha dado el fondo de inversion este trimestre.,positivo,15
+"la aseguradora me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,12
+la casa de bolsa incumplio el contrato y no hay forma de contactarlos.,negativo,13
+la cooperativa ofrece tasas de interes competitivas y un soporte confiable.,positivo,11
+"Excelente atencion al cliente, la entidad crediticia resolvio mi consulta muy rapido.",positivo,12
+"La plataforma de la casa de bolsa se cae constantemente, es muy poco confiable.",negativo,14
+"Recomiendo totalmente la app de pagos, las comisiones son bajas y el servicio es excelente.",positivo,15
+la cooperativa tiene tasas de interes abusivas comparadas con la competencia.,negativo,11
+"el fondo de inversion cumplio con todo lo prometido, confio plenamente en ellos.",positivo,13
+"No recomiendo la plataforma de trading, el servicio al cliente es terrible.",negativo,12
+"la casa de bolsa cumplio con todo lo prometido, confio plenamente en ellos.",positivo,13
+el banco incumplio el contrato y no hay forma de contactarlos.,negativo,11
+La app de la app de pagos tiene errores constantes y perdi una operacion importante.,negativo,15
+Estoy muy satisfecho con el rendimiento de mi inversion en la app de pagos.,positivo,14
+El proceso con la aseguradora fue lento y lleno de trabas innecesarias.,negativo,12
+"Pesima atencion al cliente, la app de pagos nunca respondio mis reclamos.",negativo,12
+"Pesima atencion al cliente, el asesor financiero nunca respondio mis reclamos.",negativo,11
+Estoy muy satisfecho con el rendimiento de mi inversion en la entidad crediticia.,positivo,13
+la app de pagos incumplio el contrato y no hay forma de contactarlos.,negativo,13
+El proceso de aprobacion de mi credito con el banco fue rapido y sin complicaciones.,positivo,15
+"la cooperativa me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,12
+El proceso con el banco fue lento y lleno de trabas innecesarias.,negativo,12
+Estoy muy satisfecho con el rendimiento de mi inversion en el banco.,positivo,12
+la fintech tiene tasas de interes abusivas comparadas con la competencia.,negativo,11
+el asesor financiero incumplio el contrato y no hay forma de contactarlos.,negativo,12
+El proceso con la casa de bolsa fue lento y lleno de trabas innecesarias.,negativo,14
+El equipo de la cooperativa fue muy profesional al explicarme mis opciones de inversion.,positivo,14
+Estoy furioso con la plataforma de trading por el retraso injustificado en mi retiro de fondos.,negativo,16
+la app de pagos tiene una plataforma muy intuitiva y facil de usar.,positivo,13
+La app de la aseguradora tiene errores constantes y perdi una operacion importante.,negativo,13
+Estoy muy satisfecho con el rendimiento de mi inversion en la plataforma de trading.,positivo,14
+La app de la entidad crediticia es estable y nunca he tenido problemas para operar.,positivo,15
+"Muy decepcionado con la aseguradora, no cumplieron lo que ofrecian.",negativo,10
+"la app de pagos me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,16
+"Muy buena experiencia con la entidad crediticia, superaron mis expectativas.",positivo,10
+"la app de pagos me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,14
+Estoy furioso con el asesor financiero por el retraso injustificado en mi retiro de fondos.,negativo,15
+"la aseguradora cumplio con todo lo prometido, confio plenamente en ellos.",positivo,11
+Estoy furioso con la fintech por el retraso injustificado en mi retiro de fondos.,negativo,14
+Estoy muy satisfecho con el rendimiento de mi inversion en la cooperativa.,positivo,12
+El proceso con la cooperativa fue lento y lleno de trabas innecesarias.,negativo,12
+La app de la cooperativa es estable y nunca he tenido problemas para operar.,positivo,14
+"No recomiendo la app de pagos, el servicio al cliente es terrible.",negativo,12
+El proceso de aprobacion de mi credito con la plataforma de trading fue rapido y sin complicaciones.,positivo,17
+Perdi dinero por las altas comisiones ocultas de la entidad crediticia.,negativo,11
+La app de el banco es estable y nunca he tenido problemas para operar.,positivo,14
+el fondo de inversion tiene tasas de interes abusivas comparadas con la competencia.,negativo,13
+La app de la cooperativa tiene errores constantes y perdi una operacion importante.,negativo,13
+el asesor financiero tiene tasas de interes abusivas comparadas con la competencia.,negativo,12
+"Muy decepcionado con la casa de bolsa, no cumplieron lo que ofrecian.",negativo,12
+Estoy furioso con el fondo de inversion por el retraso injustificado en mi retiro de fondos.,negativo,16
+la entidad crediticia tiene tasas de interes abusivas comparadas con la competencia.,negativo,12
+"la app de pagos cumplio con todo lo prometido, confio plenamente en ellos.",positivo,13
+El asesor de la entidad crediticia me dio informacion incorrecta sobre mi inversion.,negativo,13
+"Muy buena experiencia con la casa de bolsa, superaron mis expectativas.",positivo,11
+Perdi dinero por las altas comisiones ocultas de la cooperativa.,negativo,10
+El equipo de la app de pagos fue muy profesional al explicarme mis opciones de inversion.,positivo,16
+"Pesima atencion al cliente, la cooperativa nunca respondio mis reclamos.",negativo,10
+"Pesima atencion al cliente, el banco nunca respondio mis reclamos.",negativo,10
+La app de el asesor financiero es estable y nunca he tenido problemas para operar.,positivo,15
+Estoy feliz con la rentabilidad que me ha dado la fintech este trimestre.,positivo,13
+La app de la plataforma de trading es estable y nunca he tenido problemas para operar.,positivo,16
+Estoy feliz con la rentabilidad que me ha dado la plataforma de trading este trimestre.,positivo,15
+el fondo de inversion ofrece tasas de interes competitivas y un soporte confiable.,positivo,13
+"el asesor financiero cumplio con todo lo prometido, confio plenamente en ellos.",positivo,12
+"Muy decepcionado con el fondo de inversion, no cumplieron lo que ofrecian.",negativo,12
+"el asesor financiero me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,13
+"la fintech cumplio con todo lo prometido, confio plenamente en ellos.",positivo,11
+la entidad crediticia tiene una plataforma muy intuitiva y facil de usar.,positivo,12
+"Pesima atencion al cliente, el fondo de inversion nunca respondio mis reclamos.",negativo,12
+"Muy buena experiencia con la app de pagos, superaron mis expectativas.",positivo,11
+la aseguradora ofrece tasas de interes competitivas y un soporte confiable.,positivo,11
+"Excelente atencion al cliente, la app de pagos resolvio mi consulta muy rapido.",positivo,13
+"la cooperativa me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,14
+"No recomiendo el fondo de inversion, el servicio al cliente es terrible.",negativo,12
+El proceso con la entidad crediticia fue lento y lleno de trabas innecesarias.,negativo,13
+El equipo de el asesor financiero fue muy profesional al explicarme mis opciones de inversion.,positivo,15
+La app de la app de pagos es estable y nunca he tenido problemas para operar.,positivo,16
+El asesor de la aseguradora me dio informacion incorrecta sobre mi inversion.,negativo,12
+la plataforma de trading tiene tasas de interes abusivas comparadas con la competencia.,negativo,13
+"La plataforma de la aseguradora se cae constantemente, es muy poco confiable.",negativo,12
+El proceso de aprobacion de mi credito con la fintech fue rapido y sin complicaciones.,positivo,15
+Estoy muy satisfecho con el rendimiento de mi inversion en la aseguradora.,positivo,12
+El proceso de aprobacion de mi credito con la app de pagos fue rapido y sin complicaciones.,positivo,17
+la plataforma de trading tiene una plataforma muy intuitiva y facil de usar.,positivo,13
+"Recomiendo totalmente la aseguradora, las comisiones son bajas y el servicio es excelente.",positivo,13
+Estoy furioso con la casa de bolsa por el retraso injustificado en mi retiro de fondos.,negativo,16
+"La plataforma de la plataforma de trading se cae constantemente, es muy poco confiable.",negativo,14
+"No recomiendo la fintech, el servicio al cliente es terrible.",negativo,10
+"la fintech me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,14
+Perdi dinero por las altas comisiones ocultas de el asesor financiero.,negativo,11
+"Muy decepcionado con el banco, no cumplieron lo que ofrecian.",negativo,10
+"Muy buena experiencia con la cooperativa, superaron mis expectativas.",positivo,9
+"Recomiendo totalmente la fintech, las comisiones son bajas y el servicio es excelente.",positivo,13
+"No recomiendo la aseguradora, el servicio al cliente es terrible.",negativo,10
+"La plataforma de la cooperativa se cae constantemente, es muy poco confiable.",negativo,12
+"Muy buena experiencia con la plataforma de trading, superaron mis expectativas.",positivo,11
+"La plataforma de la fintech se cae constantemente, es muy poco confiable.",negativo,12
+la cooperativa tiene una plataforma muy intuitiva y facil de usar.,positivo,11
+la fintech incumplio el contrato y no hay forma de contactarlos.,negativo,11
+El asesor de la app de pagos me dio informacion incorrecta sobre mi inversion.,negativo,14
+la plataforma de trading incumplio el contrato y no hay forma de contactarlos.,negativo,13
+Perdi dinero por las altas comisiones ocultas de la aseguradora.,negativo,10
+"Excelente atencion al cliente, el banco resolvio mi consulta muy rapido.",positivo,11
+"Excelente atencion al cliente, la aseguradora resolvio mi consulta muy rapido.",positivo,11
+"Muy buena experiencia con el asesor financiero, superaron mis expectativas.",positivo,10
+"Recomiendo totalmente la cooperativa, las comisiones son bajas y el servicio es excelente.",positivo,13
+Estoy feliz con la rentabilidad que me ha dado el banco este trimestre.,positivo,13
+"la entidad crediticia cumplio con todo lo prometido, confio plenamente en ellos.",positivo,12
+"La plataforma de el fondo de inversion se cae constantemente, es muy poco confiable.",negativo,14
+"la casa de bolsa me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,14
+El equipo de el banco fue muy profesional al explicarme mis opciones de inversion.,positivo,14
+la app de pagos ofrece tasas de interes competitivas y un soporte confiable.,positivo,13
+"No recomiendo el asesor financiero, el servicio al cliente es terrible.",negativo,11
+El proceso con la plataforma de trading fue lento y lleno de trabas innecesarias.,negativo,14
+El equipo de la plataforma de trading fue muy profesional al explicarme mis opciones de inversion.,positivo,16
+El proceso de aprobacion de mi credito con la cooperativa fue rapido y sin complicaciones.,positivo,15
+"La plataforma de el banco se cae constantemente, es muy poco confiable.",negativo,12
+La app de la fintech es estable y nunca he tenido problemas para operar.,positivo,14
+la aseguradora tiene una plataforma muy intuitiva y facil de usar.,positivo,11
+"la plataforma de trading cumplio con todo lo prometido, confio plenamente en ellos.",positivo,13
+El proceso con la app de pagos fue lento y lleno de trabas innecesarias.,negativo,14
+"Muy decepcionado con la cooperativa, no cumplieron lo que ofrecian.",negativo,10
+El proceso de aprobacion de mi credito con la casa de bolsa fue rapido y sin complicaciones.,positivo,17
+Estoy muy satisfecho con el rendimiento de mi inversion en la fintech.,positivo,12
+el fondo de inversion incumplio el contrato y no hay forma de contactarlos.,negativo,13
+el asesor financiero tiene una plataforma muy intuitiva y facil de usar.,positivo,12
+"La plataforma de el asesor financiero se cae constantemente, es muy poco confiable.",negativo,13
+"Excelente atencion al cliente, el fondo de inversion resolvio mi consulta muy rapido.",positivo,13
+"Pesima atencion al cliente, la aseguradora nunca respondio mis reclamos.",negativo,10
+El proceso de aprobacion de mi credito con la aseguradora fue rapido y sin complicaciones.,positivo,15
+Perdi dinero por las altas comisiones ocultas de la plataforma de trading.,negativo,12
+"el banco me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,12
+La app de la aseguradora es estable y nunca he tenido problemas para operar.,positivo,14
+Perdi dinero por las altas comisiones ocultas de la app de pagos.,negativo,12
+"Pesima atencion al cliente, la plataforma de trading nunca respondio mis reclamos.",negativo,12
+El asesor de la cooperativa me dio informacion incorrecta sobre mi inversion.,negativo,12
+La app de el banco tiene errores constantes y perdi una operacion importante.,negativo,13
+"Muy buena experiencia con el banco, superaron mis expectativas.",positivo,9
+La app de la casa de bolsa tiene errores constantes y perdi una operacion importante.,negativo,15
+La app de el fondo de inversion es estable y nunca he tenido problemas para operar.,positivo,16
+"Recomiendo totalmente el fondo de inversion, las comisiones son bajas y el servicio es excelente.",positivo,15
+El proceso con el fondo de inversion fue lento y lleno de trabas innecesarias.,negativo,14
+"Recomiendo totalmente el banco, las comisiones son bajas y el servicio es excelente.",positivo,13
+"Pesima atencion al cliente, la casa de bolsa nunca respondio mis reclamos.",negativo,12
+la casa de bolsa tiene una plataforma muy intuitiva y facil de usar.,positivo,13
+"la plataforma de trading me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,14
+"Muy decepcionado con el asesor financiero, no cumplieron lo que ofrecian.",negativo,11
+la fintech ofrece tasas de interes competitivas y un soporte confiable.,positivo,11
+El proceso de aprobacion de mi credito con la entidad crediticia fue rapido y sin complicaciones.,positivo,16
+el banco tiene tasas de interes abusivas comparadas con la competencia.,negativo,11
+"Recomiendo totalmente el asesor financiero, las comisiones son bajas y el servicio es excelente.",positivo,14
+El equipo de el fondo de inversion fue muy profesional al explicarme mis opciones de inversion.,positivo,16
+La app de la fintech tiene errores constantes y perdi una operacion importante.,negativo,13
+"Recomiendo totalmente la casa de bolsa, las comisiones son bajas y el servicio es excelente.",positivo,15
+"La plataforma de la app de pagos se cae constantemente, es muy poco confiable.",negativo,14
+Estoy furioso con la cooperativa por el retraso injustificado en mi retiro de fondos.,negativo,14
+"Excelente atencion al cliente, la casa de bolsa resolvio mi consulta muy rapido.",positivo,13
+Estoy feliz con la rentabilidad que me ha dado la app de pagos este trimestre.,positivo,15
+"la casa de bolsa me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,16
+Perdi dinero por las altas comisiones ocultas de la casa de bolsa.,negativo,12
+El asesor de el asesor financiero me dio informacion incorrecta sobre mi inversion.,negativo,13
+La app de el fondo de inversion tiene errores constantes y perdi una operacion importante.,negativo,15
+Estoy furioso con la aseguradora por el retraso injustificado en mi retiro de fondos.,negativo,14
+"Recomiendo totalmente la entidad crediticia, las comisiones son bajas y el servicio es excelente.",positivo,14
+"No recomiendo la casa de bolsa, el servicio al cliente es terrible.",negativo,12
+el banco ofrece tasas de interes competitivas y un soporte confiable.,positivo,11
+El proceso de aprobacion de mi credito con el fondo de inversion fue rapido y sin complicaciones.,positivo,17
+"Excelente atencion al cliente, el asesor financiero resolvio mi consulta muy rapido.",positivo,12
+"la fintech me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,12
+"el banco cumplio con todo lo prometido, confio plenamente en ellos.",positivo,11
+El equipo de la fintech fue muy profesional al explicarme mis opciones de inversion.,positivo,14
+la casa de bolsa ofrece tasas de interes competitivas y un soporte confiable.,positivo,13
+El asesor de la casa de bolsa me dio informacion incorrecta sobre mi inversion.,negativo,14
+El asesor de la plataforma de trading me dio informacion incorrecta sobre mi inversion.,negativo,14
+la entidad crediticia ofrece tasas de interes competitivas y un soporte confiable.,positivo,12
+"Excelente atencion al cliente, la plataforma de trading resolvio mi consulta muy rapido.",positivo,13
+Estoy muy satisfecho con el rendimiento de mi inversion en la casa de bolsa.,positivo,14
+"la entidad crediticia me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,15
+la app de pagos tiene tasas de interes abusivas comparadas con la competencia.,negativo,13
+Perdi dinero por las altas comisiones ocultas de la fintech.,negativo,10
+Estoy muy satisfecho con el rendimiento de mi inversion en el asesor financiero.,positivo,13
+"No recomiendo la cooperativa, el servicio al cliente es terrible.",negativo,10
+"Muy buena experiencia con la aseguradora, superaron mis expectativas.",positivo,9
+Estoy furioso con la entidad crediticia por el retraso injustificado en mi retiro de fondos.,negativo,15
+Perdi dinero por las altas comisiones ocultas de el fondo de inversion.,negativo,12
+"Muy decepcionado con la app de pagos, no cumplieron lo que ofrecian.",negativo,12
+Estoy furioso con el banco por el retraso injustificado en mi retiro de fondos.,negativo,14
+La app de la casa de bolsa es estable y nunca he tenido problemas para operar.,positivo,16
+"el fondo de inversion me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,16
+Estoy feliz con la rentabilidad que me ha dado el asesor financiero este trimestre.,positivo,14
+"el banco me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,14
+"Muy decepcionado con la plataforma de trading, no cumplieron lo que ofrecian.",negativo,12
+"el fondo de inversion me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,14
+"Muy decepcionado con la entidad crediticia, no cumplieron lo que ofrecian.",negativo,11
+La app de la entidad crediticia tiene errores constantes y perdi una operacion importante.,negativo,14
+la cooperativa incumplio el contrato y no hay forma de contactarlos.,negativo,11
+El asesor de la fintech me dio informacion incorrecta sobre mi inversion.,negativo,12
+"No recomiendo la entidad crediticia, el servicio al cliente es terrible.",negativo,11
+"la plataforma de trading me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,16
+"Recomiendo totalmente la plataforma de trading, las comisiones son bajas y el servicio es excelente.",positivo,15
+la plataforma de trading ofrece tasas de interes competitivas y un soporte confiable.,positivo,13
+la fintech tiene una plataforma muy intuitiva y facil de usar.,positivo,11
+"el asesor financiero me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,15
+la casa de bolsa tiene tasas de interes abusivas comparadas con la competencia.,negativo,13
+"No recomiendo el banco, el servicio al cliente es terrible.",negativo,10
+la aseguradora incumplio el contrato y no hay forma de contactarlos.,negativo,11
+La app de el asesor financiero tiene errores constantes y perdi una operacion importante.,negativo,14
+"Muy decepcionado con la fintech, no cumplieron lo que ofrecian.",negativo,10
+"Pesima atencion al cliente, la entidad crediticia nunca respondio mis reclamos.",negativo,11
+El proceso de aprobacion de mi credito con el asesor financiero fue rapido y sin complicaciones.,positivo,16
+El proceso con el asesor financiero fue lento y lleno de trabas innecesarias.,negativo,13
+Estoy furioso con la app de pagos por el retraso injustificado en mi retiro de fondos.,negativo,16
+"Excelente atencion al cliente, la fintech resolvio mi consulta muy rapido.",positivo,11
+"la aseguradora me devolvio mi dinero de forma inmediata ante un reclamo, gran servicio.",positivo,14
+"La plataforma de la entidad crediticia se cae constantemente, es muy poco confiable.",negativo,13
+Perdi dinero por las altas comisiones ocultas de el banco.,negativo,10
+El proceso con la fintech fue lento y lleno de trabas innecesarias.,negativo,12
+Estoy feliz con la rentabilidad que me ha dado la casa de bolsa este trimestre.,positivo,15
+El equipo de la entidad crediticia fue muy profesional al explicarme mis opciones de inversion.,positivo,15
+"la cooperativa cumplio con todo lo prometido, confio plenamente en ellos.",positivo,11
+el asesor financiero ofrece tasas de interes competitivas y un soporte confiable.,positivo,12
+la aseguradora tiene tasas de interes abusivas comparadas con la competencia.,negativo,11
+"Muy buena experiencia con el fondo de inversion, superaron mis expectativas.",positivo,11
+El asesor de el fondo de inversion me dio informacion incorrecta sobre mi inversion.,negativo,14
+El asesor de el banco me dio informacion incorrecta sobre mi inversion.,negativo,12
+"Pesima atencion al cliente, la fintech nunca respondio mis reclamos.",negativo,10
+la entidad crediticia incumplio el contrato y no hay forma de contactarlos.,negativo,12
+el banco tiene una plataforma muy intuitiva y facil de usar.,positivo,11
+La app de la plataforma de trading tiene errores constantes y perdi una operacion importante.,negativo,15
+"Muy buena experiencia con la fintech, superaron mis expectativas.",positivo,9
+Estoy feliz con la rentabilidad que me ha dado la cooperativa este trimestre.,positivo,13
+Estoy muy satisfecho con el rendimiento de mi inversion en el fondo de inversion.,positivo,14
+El equipo de la aseguradora fue muy profesional al explicarme mis opciones de inversion.,positivo,14
+"la entidad crediticia me cobro cargos que nunca me explicaron, muy mala experiencia.",negativo,13
+Estoy feliz con la rentabilidad que me ha dado la aseguradora este trimestre.,positivo,13
